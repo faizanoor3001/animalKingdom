@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(puppy.Barks())
 	fmt.Println(puppy.WhenGrownUp())
 	fmt.Println(puppy.WhenGrownUp() + "Bhau !! Bhau!!!")
+	fmt.Println(puppy.WhenGrownUp() + "Meow !! Oopss !! Am I a cat ?")
 }
